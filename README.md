@@ -1,5 +1,4 @@
 ## Hey 👋
-
 My name is **Robin**.
 I am an IT/Software developer student currently based in Norway, but looking to work abroad.
 
@@ -23,7 +22,7 @@ Other projects I have been a part of:
 ---
 
 ### Fun facts about me
-🌐 I did an exchange semester in Korea
-☕ I don't drink coffee
-🧗 Hobbies: Climbing, hiking and traveling
-🧑‍💻 I'm an extrovert, so good team communication and collaboration is important to me
+- 🌐 I did an exchange semester in Korea
+- ☕ I don't drink coffee
+- 🧗 Hobbies: Climbing, hiking and traveling
+- 🧑‍💻 I'm an extrovert, so good team communication and collaboration is important to me
