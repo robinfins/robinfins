@@ -14,10 +14,10 @@ Other projects I have been a part of:
 ---
 
 ### Tools and Tech
-- **Front end**: JavaScript, HTML, CSS, Bootstrap
-- **Back end**: C#, Java, Python, PHP, Golang
-- **Database**: MariaDB, MySQL
-- **Developer tools**: Docker, Git, Agile methods, WordPress
+- **Front end**: JavaScript, HTML, CSS, React
+- **Back end**: C#, Java, Python, PHP, REST APIs, Node.js
+- **Database**: MariaDB/MySQL
+- **Developer tools**: Docker, Git, Agile/Scrum, WordPress
 
 ---
 
