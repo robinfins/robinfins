@@ -24,5 +24,4 @@ Other projects I have been a part of:
 ### Fun facts about me
 - 🌐 I did an exchange semester in Korea
 - ☕ I don't drink coffee
-- 🧗 Hobbies: Climbing, hiking and traveling
-- 🧑‍💻 I'm an extrovert, so good team communication and collaboration is important to me
+- 🧗 Hobbies: Climbing, hiking, gaming and traveling
