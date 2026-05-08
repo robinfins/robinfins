@@ -2,14 +2,15 @@
 My name is **Robin**.
 I am an IT/Software developer student currently based in Norway, but looking to work abroad.
 
-I have worked on multiple projects through my studies, but my favorite is the one I am working on through an internship this semester.
-Me and my team is working on a PoC digital twin of a farm, using different tools for photogrammetry, 3D modeling and analysis for further development.
-Some of the software we're using for this is Reality capture, Unity, Blender, SAM 3D...
+My most recent project is through an internship at one of the largest IT clusters in Norway called Digin. Me and my team have worked on a proof of concept pipeline for digital twins in agriculture. Here we have explored different tools for photogrammetry, 3D Gaussian splatting, segmentation, and so on.
 
-Other projects I have been a part of:
-- Creating  and/or redesigning websites for smaller businesses. 
-- Creating a .NET Webapplication for reporting and processing map changes.
-- Creating an simple AI chatbot for giving movie recommendations based on user preferences.
+Other projects
+- Developed a desktop application for an accountant business using React and Electron. This application is used on a regular basis and is a significant time-saver for the accountants.
+- Internship at E-Waves: Design and development in Figma and Wordpress.
+- School project: .NET Webapplication for reporting and processing map changes.
+- School project: AI-chatbot written in PHP using Gemini API.
+- Freelancing: Photography and drone videography for climbing gyms. 
+- Freelancing: Developed a React and Astro website for a local construction company
 
 ---
 
